@@ -42,5 +42,4 @@ For corner flow reference:
 http://web.stanford.edu/~cantwell/AA200_Course_Material/AA200_Course_Notes/AA200_Ch_10_Elements_of_potential_flow_Cantwell.pdf,   http://web.mit.edu/fluids-modules/www/potential_flows/LecturesHTML/lec1011/node36.html
 
 
-Questions and feedback? Email alecwmitchell@gmail.com
     
